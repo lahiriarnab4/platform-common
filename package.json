@@ -1,5 +1,5 @@
 {
-  "name": "platform-common",
+  "name": "@platform-common",
   "private": true,
   "workspaces": [
     "packages/*"

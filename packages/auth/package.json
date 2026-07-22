@@ -1,5 +1,5 @@
 {
-  "name": "@lahiriarnab4/auth",
+  "name": "@hs-platform-common/auth",
   "version": "1.0.0",
   "private": false,
   "main": "index.js",

@@ -1,0 +1,38 @@
+{
+  "changelists": [
+    {
+      "name": "Default",
+      "files": [
+        ".gitignore",
+        ".npmrc",
+        "README.md",
+        "package-lock.json",
+        "package.json",
+        "packages/auth/index.js",
+        "packages/auth/package.json",
+        "packages/auth/platform-common-auth-1.0.0.tgz",
+        "packages/auth/test/auth.test.js",
+        "packages/authorization/index.js",
+        "packages/authorization/package.json",
+        "packages/errors/index.js",
+        "packages/errors/package.json",
+        "packages/exceptions/index.js",
+        "packages/exceptions/package.json",
+        "packages/logger/index.js",
+        "packages/logger/package.json",
+        "packages/rate-limit/index.js",
+        "packages/rate-limit/package.json",
+        "packages/rate-limiter/index.js",
+        "packages/rate-limiter/package.json",
+        "packages/request-context/index.js",
+        "packages/request-context/package.json",
+        "packages/response-handler/index.js",
+        "packages/response-handler/package.json",
+        "packages/utils/index.js",
+        "packages/utils/package.json",
+        ".vscode/changelists.json"
+      ]
+    }
+  ],
+  "active": "Default"
+}
