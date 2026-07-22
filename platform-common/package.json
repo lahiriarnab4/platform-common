@@ -1,0 +1,16 @@
+{
+  "name": "platform-common",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "npm test --workspaces --if-present",
+    "publish:all": "npm publish --workspaces --access restricted"
+  },
+  "version": "",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@lahiriarnab4/auth",
+  "version": "1.0.0",
+  "private": false,
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  }
+}
